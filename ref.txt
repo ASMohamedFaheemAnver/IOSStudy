@@ -1,0 +1,4 @@
+# Resources
+-> https://www.appbrewery.com/p/ios-course-resources/
+# Connect physical device
+-> https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16251002#content
