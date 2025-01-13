@@ -21,6 +21,11 @@ class ViewController: UIViewController {
         diceImageView2.image = UIImage(imageLiteralResourceName: "DiceTwo")
     }
 
-
+    @IBAction func onRollDice(_ sender: UIButton) {
+        NSLog("Roll clicked!")
+        diceImageView1.image = UIImage(imageLiteralResourceName: "DiceFour")
+        diceImageView2.image = UIImage(imageLiteralResourceName: "DiceFour")
+    }
+    
 }
 
